@@ -13,7 +13,7 @@ If you love the repo, please :star2: it!  :heart:
 
 ## Try Now! with Repl.it (No Installation Required)
 
-[![Run on Repl.it](https://repl.it/badge/github/KFChinese/Hang-Emoji-with-Python)](real-time-bay-area-covid-19-quarantine-clock.kfchinese.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/KFChinese/Hang-Emoji-with-Python)](https://real-time-bay-area-covid-19-quarantine-clock.kfchinese.repl.run/)
 > If the Console is stuck on "Connecting...", Please refresh the page. This is an ongoing issue with Repl.it.
 
 
