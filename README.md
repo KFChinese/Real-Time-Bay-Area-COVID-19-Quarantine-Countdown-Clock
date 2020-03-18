@@ -10,6 +10,8 @@ See how Many Days The Bay Area has time left in The ‘Shelter in Place’ order
 
 [Sfgate for Shelter in Place Order](https://www.sfgate.com/bayarea/article/San-Francisco-Bay-Area-shelter-in-place-COVID-19-15135282.php)
 
+> Currently, Bay Area Health Officials state that 4/7/20 at 12AM will lift the order enacted with The Bay Area.
+
 If you love the repo, please :star2: it!  :heart:
 
 ## Try Now! with Repl.it (No Installation Required)
