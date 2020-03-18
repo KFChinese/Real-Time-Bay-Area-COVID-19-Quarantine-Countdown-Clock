@@ -80,19 +80,18 @@ def main():
         clear_output(wait=True)
         print("Today's Date and Time:", datetime.datetime.now().replace(microsecond=0))
         print("Time Left in Quarantine:", delta, "...")
-        print("                                 ", "HR MIN SEC")
-
+        print("                                  ", "H  M  S")
+        # Used for computers with (PST) Time. 
         """
         sleep(.99)
-        delta = datetime.datetime(2020, 4, 7, 14) - datetime.datetime.now().replace(
+        delta = datetime.datetime(2020, 4, 7, 7) - datetime.datetime.now().replace(
             microsecond=0
         )
         clear()
         clear_output(wait=True)
         sleep(.01)
-        print("\nToday's Date and Time:", datetime.datetime.now().replace(microsecond=0,hour=11))
         print("Time Left in Quarantine:", delta, "...")
-        print("                                 ", "HR MIN SEC")
+        print("                                  ", "H  M  S")
         """
         # This is used for Computers/Servers with (UTC) time.
 
