@@ -16,13 +16,17 @@ If you love the repo, please :star2: it!  :heart:
 [![Run on Repl.it](https://repl.it/badge/github/KFChinese/Hang-Emoji-with-Python)](https://real-time-bay-area-covid-19-quarantine-clock.kfchinese.repl.run/)
 > If the Console is stuck on "Connecting...", Please refresh the page. This is an ongoing issue with Repl.it.
 
+## Dependencies Required to Run on Local Computer
+Requires `ipython` to be installed to your computer.
 
 ## Installation to Local Computer
 Requires Python3 
 and 
 Run:
 
+    pip install ipython
     python main.py
+    
     
  for the python script to work.
 
