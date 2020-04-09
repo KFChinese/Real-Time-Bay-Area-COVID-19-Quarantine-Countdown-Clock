@@ -84,7 +84,7 @@ def main():
         # Used for computers with (PST) Time. 
         """
         sleep(.99)
-        delta = datetime.datetime(2020, 4, 5, 1) - datetime.datetime.now().replace(
+        delta = datetime.datetime(2020, 5, 1, 7) - datetime.datetime.now().replace(
             microsecond=0
         )
         clear()
