@@ -1,4 +1,5 @@
 
+[Updated: Apr 8, 2020]
 # Real-Time Bay Area COVID-19 ☣️ Quarantine Countdown Clock ⏳
 ![Newspaper](https://ca-times.brightspotcdn.com/dims4/default/c8a5b45/2147483647/strip/true/crop/4032x3024+0+0/resize/840x630!/quality/90/?url=https://california-times-brightspot.s3.amazonaws.com/b1/79/da1a579f4e1c9e1107f6813c6ad6/image-from-ios-2.jpg)
 
@@ -10,7 +11,10 @@ See how Many Days The Bay Area has time left in The ‘Shelter in Place’ order
 
 [Sfgate for Shelter in Place Order](https://www.sfgate.com/bayarea/article/San-Francisco-Bay-Area-shelter-in-place-COVID-19-15135282.php)
 
-> Currently, Bay Area Health Officials state that 4/7/20 at 12AM will lift the order enacted with The Bay Area.
+>Currently, Bay Area Health Officials state that 5/1/20 at 12AM will lift the order enacted with The Bay Area.
+[[Source]](https://abc7news.com/society/bay-area-shelter-in-place-order-to-be-extended-until-may-1/6063267/)
+
+>Originally, Bay Area Health Officials state that 4/7/20 at 12AM will lift the order enacted with The Bay Area.
 
 If you love the repo, please :star2: it!  :heart:
 
